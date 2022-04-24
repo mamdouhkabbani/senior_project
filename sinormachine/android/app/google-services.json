@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "339839133278",
+    "project_id": "sinormachine",
+    "storage_bucket": "sinormachine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339839133278:android:d6e9b45323c3633d3336cf",
+        "android_client_info": {
+          "package_name": "com.example.sinormachine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339839133278-o9bqb1sf66hoh7t690btoktgrfv36aee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sinormachine",
+            "certificate_hash": "8173d51048b7b83cb3172b706f6210be0cce63ca"
+          }
+        },
+        {
+          "client_id": "339839133278-vt3e6g8irq1ko9m3d3gl6a9ih3pso1jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_LP5JBR-POeIelpNVB7Z0dbdvZ-ROJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339839133278-vt3e6g8irq1ko9m3d3gl6a9ih3pso1jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
